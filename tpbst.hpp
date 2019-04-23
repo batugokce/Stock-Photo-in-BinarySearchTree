@@ -5,8 +5,6 @@
 #include <string>
 #include <stack>
 #include <list>
-// do not add any other library.
-// modify parts as directed by assignment text and comments here.
 
 template <class T>
 class TwoPhaseBST {
