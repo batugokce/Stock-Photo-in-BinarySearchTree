@@ -4,7 +4,7 @@
 #include "tpbst.hpp"
 #include "photo.hpp"
 
-class StockPhotoWebstore //do not change this file
+class StockPhotoWebstore 
 {
 public:
     StockPhotoWebstore();
